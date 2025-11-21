@@ -1,68 +1,60 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
-## Actividad \#16 - Matrices doc
+## Alumno: COba Gongora Marco Damian
+## Actividad \#20 - Documentación
 
 ---
-### Identificación de matrices
-
-Matriz identidad, porque la diagonal está compuestos por solo unos y los elementos fuera de la diagonal son ceros.
-
-$$ A =
-\begin{pmatrix}
-1 & 0 \\
-0 & 1 \\
-\end{pmatrix}
-$$
-
-MUESTRA
-
-Calcula la suma de A y B
-
-$$ A =
-\begin{pmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-\end{pmatrix}
-$$
-
-$$ B =
-\begin{pmatrix}
-9 & 10 & 11 \\
-12 & 13 & 14 \\
-\end{pmatrix}
-$$
-
-$$ A + B =
-\begin{pmatrix}
-1 + 9 & 2 + 10 & 3 + 11 \\
-4 + 12 & 5 + 13 & 6 + 14 \\
-\end{pmatrix}
-$$
-
-$$ A + B =
-\begin{pmatrix}
-10 & 12 & 14 \\
-16 & 18 & 20 \\
-\end{pmatrix}
-$$
-
----
-# OTRO EJERCICIO
-...
-
-
-
-
-
-
-
+Objetivo: Documentar excel
 
 ---
 
+```Java
+public class HelloWorld;
+  public static void main (String[] args){
+    System.out.println("Hello World");
+}
+```
+---
+          _____                   _______                   _____            _____          
+         /\    \                 /::\    \                 /\    \          /\    \         
+        /::\____\               /::::\    \               /::\____\        /::\    \        
+       /:::/    /              /::::::\    \             /:::/    /       /::::\    \       
+      /:::/    /              /::::::::\    \           /:::/    /       /::::::\    \      
+     /:::/    /              /:::/~~\:::\    \         /:::/    /       /:::/\:::\    \     
+    /:::/____/              /:::/    \:::\    \       /:::/    /       /:::/__\:::\    \    
+   /::::\    \             /:::/    / \:::\    \     /:::/    /       /::::\   \:::\    \   
+  /::::::\    \   _____   /:::/____/   \:::\____\   /:::/    /       /::::::\   \:::\    \  
+ /:::/\:::\    \ /\    \ |:::|    |     |:::|    | /:::/    /       /:::/\:::\   \:::\    \ 
+/:::/  \:::\    /::\____\|:::|____|     |:::|    |/:::/____/       /:::/  \:::\   \:::\____\
+\::/    \:::\  /:::/    / \:::\    \   /:::/    / \:::\    \       \::/    \:::\  /:::/    /
+ \/____/ \:::\/:::/    /   \:::\    \ /:::/    /   \:::\    \       \/____/ \:::\/:::/    / 
+          \::::::/    /     \:::\    /:::/    /     \:::\    \               \::::::/    /  
+           \::::/    /       \:::\__/:::/    /       \:::\    \               \::::/    /   
+           /:::/    /         \::::::::/    /         \:::\    \              /:::/    /    
+          /:::/    /           \::::::/    /           \:::\    \            /:::/    /     
+         /:::/    /             \::::/    /             \:::\    \          /:::/    /      
+        /:::/    /               \::/____/               \:::\____\        /:::/    /       
+        \::/    /                 ~~                      \::/    /        \::/    /        
+         \/____/                                           \/____/          \/____/         
+                                                                                            
+---
 
+```excel
+=TRANSPONER(Pushen !A1:AD30)
+```
 
+Ejemplo de matriz
+| | | |
+|---|---|---|
+|1|2|3|
+|a|b|c|
+|x|y|z|
 
-
-
-
+1. Commo programar la hora de excel.
+2. Escrbir las 5 matrices (30x30).
+3. Documentar la formula de la transpuesta.
+4. Documentar la formula de la suma.
+5. Documentar la formula de la resta.
+6. Documentar la formula de la multiplicación escalar.
+7. Documentar la composición.
+8. 
