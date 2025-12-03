@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
+## Alumno: Damian Coba Gongora
 ## Actividad \#16 - Matrices doc
 
 ---
@@ -50,6 +50,40 @@ $$
 ---
 # OTRO EJERCICIO
 ...
+
+Ahora A(BC)
+
+$$ B * C =
+\begin{pmatrix}
+2 * 1 + 0 * 0 & 2 * 1 + 0 * 2 \\
+1 * 1 + 3 * 0 & 1 * 1 + 3 * 2 \\
+\end{pmatrix}
+$$
+
+$$ B * C =
+\begin{pmatrix}
+2 & 2 \\
+1 & 7 \\
+\end{pmatrix}
+$$
+
+$$ A(BC)
+
+$$ A * (BC) =
+\begin{pmatrix}
+1 * 2 + 2 * 1 & 1 * 2 + 2 * 7 \\
+3 * 2 + 4 * 1 & 3 * 2 + 4 * 7 \\
+\end{pmatrix}
+$$
+
+$$ (AB) * C =
+\begin{pmatrix}
+4 & 16 \\
+10 & 34 \\
+\end{pmatrix}
+$$
+
+Al final, las dos matrices si son iguales 
 
 
 
