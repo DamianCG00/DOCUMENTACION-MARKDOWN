@@ -4,16 +4,9 @@
 ## Actividad \#18 - Documentación
 
 ---
-Objetivo: Documentar excel
+Objetivo: Documentr actividades en clases
 
----
 
-```Java
-public class HelloWorld;
-  public static void main (String[] args){
-    System.out.println("Hello World");
-}
-```
 ---
 
  ```                                       
